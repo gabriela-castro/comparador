@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+
+Name: comparador.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: meTiZvT1nJU5FC7IsMIgmw==
+SHA1-Digest: mFmjtIy2r27wuWg7dJqEsExRHv8=
+
+Name: comparador2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hS9/Abs1cu/EfXCbzGztpg==
+SHA1-Digest: z5KPA39f9o79cCrbMU554h071/k=
+
+Name: gif-animado.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q3F5wLSVEhr2i91k95fgKw==
+SHA1-Digest: FeMiXtDTsEXdC4NIV1I8mMuFyBY=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4G/jDifZRQc08aqQ60tzGQ==
+SHA1-Digest: VRoUW6z09tsoQ8f6AnWP/skmqF8=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UeR2gGW7xdgVMFIJfe6wBQ==
+SHA1-Digest: m8AVGZV4c1HUUfwevQT7tJwD8I4=
+
+Name: script.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UIxo8DfQCZF5IeAvh83A/g==
+SHA1-Digest: DqpYRrp3Jbs4X60D4Rj5q6GcJZA=
+
+Name: style.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8xwfM3QsgYMOuhJI1JCzFA==
+SHA1-Digest: cZ9RwyzXwtn6hS7yhq64/T2DjiM=
+
+Name: img/calculator_128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G0c51e8O//x7AFr9mZ2AQA==
+SHA1-Digest: to9TCk5BDNzj+EAtOkhYy5TZ05M=
+
+Name: img/calculator_60.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J60Ga2/x5niaVaO/ZHLJ/A==
+SHA1-Digest: qQSib7to/gtHJ53qFnBfjL8lIdc=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8/G65YFVDJijBKMyHoPyyA==
+SHA1-Digest: nzCzVy4utH/R1B4g2JH/TBiHfAo=

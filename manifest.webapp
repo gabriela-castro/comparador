@@ -1,0 +1,16 @@
+{
+  "version": "1.1",
+  "name": "Comparador de produtos",
+  "description": "comparador de preços de produtos",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/img/calculator_60.png",
+    "128": "/img/calculator_128.png"
+  },
+  "developer": {
+    "name": "Gabriela Castro",
+    "url": "http://www.gabriela.x-br.com"
+  },
+  
+  "default_locale": "Pt-br"
+}
